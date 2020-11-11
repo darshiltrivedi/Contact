@@ -1,10 +1,10 @@
-<span style="font-size: 1.6rem">Thanks for visiting!
+<span style="font-size: 1.6rem">Thanks for visiting!</span>
 
-Let's stay in touch. 
+<span style="font-size: 1.6rem"> Let's stay in touch. </span>
 
-I would like to hear your thoughts and answer any questions you might have about my work and experience. 
+<span style="font-size: 1.6rem">I would like to hear your thoughts and answer any questions you might have about my work and experience. </span>
 
-Email:  <trivedi7@buffalo.edu>  
+<span style="font-size: 1.6rem">Email:  <trivedi7@buffalo.edu>  </span>
 
-Phone: 716-563-3214
-</span>
+<span style="font-size: 1.6rem">Phone: 716-563-3214
+
